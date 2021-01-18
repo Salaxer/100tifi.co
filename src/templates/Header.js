@@ -2,7 +2,7 @@ const Header = () =>{
     const view = `
         <div class="Header-main">
             <div class="Header-logo">
-                <h1><a href="/" aria-label="Pagina de inicio 100tifi.co"> 100tifi.co </a> </h1>
+                <h1><a href="/100tifi.co/" aria-label="Pagina de inicio 100tifi.co"> 100tifi.co </a> </h1>
             </div>
             <label  class="switchBtn">
                 <span class="fas fa-sun" id="sunday"></span>
