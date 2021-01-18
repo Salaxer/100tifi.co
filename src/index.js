@@ -13,7 +13,6 @@ window.addEventListener('input',ev =>{
         document.querySelector('html').style.setProperty('--background-item', '#393e46');
         document.querySelector('html').style.setProperty('--text-color', '#eff7e1');
         document.querySelector('html').style.setProperty('--card-color', '#e8efeb');
-        
     }else{
         document.querySelector('html').style.setProperty('--background', '#f4f4f4');
         document.querySelector('html').style.setProperty('--background-item', '#f4f4f4');
